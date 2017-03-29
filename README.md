@@ -10,5 +10,4 @@ From the data we’re curious to find out:
 This density plot shows a comparison between contries.
 ![alt tag](https://github.com/SijiaLi/Children-Belief/blob/master/plots/Rplot01.png)
 
-And this grid plot shows the regression for 5 categories.
-![alt tag](https://github.com/SijiaLi/Children-Belief/blob/master/plots/Rplot02.png)
+This is just an example of how this project operates.
